@@ -1,0 +1,3 @@
+shell script:
+---------------
+1) special characters
