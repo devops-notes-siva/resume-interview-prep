@@ -2,3 +2,10 @@ shell script:
 ---------------
 1) special characters
 2)exit status
+3)how do you specify a custom ssh keyfile when connecting to a server?
+  ssh -i cutom_key
+4)special varaiable $$ represents --> PID of the script
+5) && represents and condition
+6)execute command and take o/p inide shell script --/. result=${comand}
+7)success o/p redirection --> 1>>$LOGFILE
+8)special var used in shell script to store the process id of the last background command --> $!
