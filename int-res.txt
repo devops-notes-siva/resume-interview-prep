@@ -9,3 +9,5 @@ shell script:
 6)execute command and take o/p inide shell script --/. result=${comand}
 7)success o/p redirection --> 1>>$LOGFILE
 8)special var used in shell script to store the process id of the last background command --> $!
+9)how do you call shell script from other scripts
+  refer 03-sh.txt
